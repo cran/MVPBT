@@ -2,8 +2,8 @@ Package: MVPBT
 Type: Package
 Title: Publication Bias Tests for Meta-Analysis of Diagnostic Accuracy
         Test
-Version: 1.1-1
-Date: 2023-05-26
+Version: 1.2-1
+Date: 2023-12-20
 Authors@R: 
   person("Hisashi", "Noma", , "noma@ism.ac.jp", role = c("aut","cre"),
            comment = c(ORCID = "0000-0002-2520-9949"))
@@ -14,7 +14,7 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 NeedsCompilation: no
-Packaged: 2023-05-26 01:30:04 UTC; Hisashi
+Packaged: 2023-12-20 04:47:27 UTC; Hisashi
 Author: Hisashi Noma [aut, cre] (<https://orcid.org/0000-0002-2520-9949>)
 Repository: CRAN
-Date/Publication: 2023-05-29 17:30:07 UTC
+Date/Publication: 2023-12-20 12:10:06 UTC
